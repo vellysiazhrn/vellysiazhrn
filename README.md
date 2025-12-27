@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vellysia 👋  
 
-<!--
-**vellysiazhrn/vellysiazhrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student — Universitas Jember  
+📍 Indonesia  
+💼 Aspiring Data Entry Specialist | Future Data Analyst  
 
-Here are some ideas to get you started:
+I'm currently focusing on building strong fundamentals in *Data Entry, Data Cleaning, and Spreadsheet Management* using *Excel, Google Sheets, and Python (beginner level)*.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+- 🧾 Excel & Google Sheets (data entry, formatting, charts, dashboards)
+- 🧹 Data Cleaning & Organization
+- 🐍 Python (Pandas, Google Colab — beginner)
+- 🗄 SQL (basic queries)
