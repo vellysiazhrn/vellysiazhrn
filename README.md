@@ -6,7 +6,7 @@
 
 I am an Informatics student with a strong interest in data analysis and practical problem-solving using data.
 
-My current focus is on data cleaning, exploratory data analysis, and basic data visualization using Excel, Google Sheets, SQL, and Python (Pandas). I enjoy working with structured datasets and turning raw data into meaningful insights.
+My current focus is on data cleaning, exploratory data analysis, and basic data visualization using Excel, Google Sheets, SQL (basic - learning), and Python (Pandas). I enjoy working with structured datasets and turning raw data into meaningful insights.
 
 ---
 
