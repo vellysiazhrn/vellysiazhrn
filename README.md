@@ -2,14 +2,16 @@
 
 🎓 Informatics Student — Universitas Jember  
 📍 Indonesia  
-💼 Aspiring Data Entry Specialist | Future Data Analyst  
+💼 Aspiring Data Analyst  
 
-I'm currently focusing on building strong fundamentals in *Data Entry, Data Cleaning, and Spreadsheet Management* using *Excel, Google Sheets, and Python (beginner level)*.  
+I am an Informatics student with a strong interest in data analysis and practical problem-solving using data.
+
+My current focus is on data cleaning, exploratory data analysis, and basic data visualization using Excel, Google Sheets, SQL, and Python (Pandas). I enjoy working with structured datasets and turning raw data into meaningful insights.
 
 ---
 
 ## 🛠 Skills & Tools
-- 🧾 Excel & Google Sheets (data entry, formatting, charts, dashboards)
-- 🧹 Data Cleaning & Organization
-- 🐍 Python (Pandas, Google Colab — beginner)
+- 🧾 Excel & Google Sheets (data cleaning, formulas, pivot tables, dashboards)
+- 🧹 Data Cleaning & Exploratory Data Analysis (EDA)
+- 🐍 Python (Pandas, NumPy – basic analysis)
 - 🗄 SQL (basic queries)
